@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**tinotendajoe01/tinotendajoe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tinotenda Joe! 
 
-Here are some ideas to get you started:
+- Curious Blockend Developer
+- Web Developer
+- Technology Educator
+- Pharmacist💊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about learning new things in tech and helping others learn to code. I'm a fan of Javascript, supply chain, and pharmaceutical sciences.
+
+Find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/tinotendajoe)
+- [Twitter](https://twitter.com/tinotendajoe01)
