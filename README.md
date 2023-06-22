@@ -11,5 +11,4 @@ I'm passionate about learning new things in tech and helping others learn to cod
 
 Find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/tinotendajoe)
 - [Twitter](https://twitter.com/tinotendajoe01)
