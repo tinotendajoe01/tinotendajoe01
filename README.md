@@ -7,7 +7,7 @@ I'm Tinotenda Joe!
 
 - Pharmacist💊
 
-I'm curious about learning new things in tech and helping others learn to code. I'm a fan of Javascript, supply chain, and pharmaceutical sciences.
+I'm curious about learning new things in tech and helping others learn to code. I'm a fan of Javascript, and  the supply chain.
 
 Find me on:
 
